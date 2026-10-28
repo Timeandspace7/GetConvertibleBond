@@ -1,0 +1,22 @@
+{
+  "stock_name": "示例股票",
+  "stock_code": "DEMO",
+  "shares": 600,
+  "buy_price": 4.24,
+  "bond_quantity": 10,
+  "bond_buy_price": 100,
+  "total_fees": null,
+  "buy_fees": 0,
+  "allocation_per_share": 1.8638,
+  "allocation_status": "情景假设，非保证配售",
+  "source": "匿名演示；不代表行情或发行公告",
+  "bond_prices": [
+    95,
+    100,
+    110,
+    120,
+    145
+  ],
+  "tick": 0.01,
+  "offset": 0.1
+}

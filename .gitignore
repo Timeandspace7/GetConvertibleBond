@@ -1,0 +1,7 @@
+node_modules/
+.qa/
+outputs/
+__pycache__/
+*.xlsx
+*.png
+*.log

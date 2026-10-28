@@ -1,0 +1,4 @@
+interface:
+  display_name: "配债盈亏测算"
+  short_description: "测算股票与配债合计盈亏、盈亏平衡点和资金需求，并导出可调整的 Excel"
+  default_prompt: "请使用 $bond_allocation_pnl 根据我的持仓测算配债盈亏、平衡点及上下情景，并导出 Excel。"
